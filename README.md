@@ -4,7 +4,7 @@
 
 ### dspyR helps you in the following ways - 
 
-* Visit career sections of various organisations for open positions/opportunities
+* Visit career sections of various organisations for open positions/opportunities - https://thedspyr.github.io/jobsearch/
 * Stay updated with some awesome tweets from developers around the globe
 * Discover latest trends and requirements in the industry
 * Find links to free resources to upskill
